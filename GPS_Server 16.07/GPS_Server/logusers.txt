@@ -1,0 +1,7 @@
+id=01 login=mentor pass=555555
+id=02 login=valera pass=404040
+id=03 login=runner pass=909090
+id=04 login=victor pass=333333
+id=05 login=zigbee pass=790790
+id=06 login=boriss pass=211112
+id=07 login=beater pass=121314
